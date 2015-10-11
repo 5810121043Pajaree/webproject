@@ -1,0 +1,23 @@
+.menu { /* ul */
+margin: 0;
+padding: 0;
+list-style: none;
+}
+.menu li {
+float: left; /* next to other */
+
+}
+.menu a {
+display: block;
+border: 1px dashed #999;
+padding: 0.2em 0.6em;
+width: 150px;
+color: white;
+background-color: silver;
+font-size: 0.9em;
+text-decoration: none;
+text-align: center;
+}
+.menu a:hover {
+background-color: fuchsia;
+}

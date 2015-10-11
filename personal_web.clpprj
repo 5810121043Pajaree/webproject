@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="E:\personal_web\personal_web.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/personal_web/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/personal_web/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="E:\personal_web\hobby\index.html"/>
+		<file name="E:\personal_web\asset\css\my_base.css"/>
+		<file name="E:\personal_web\asset\css\my_style.css"/>
+		<file name="E:\personal_web\recommend\index.html"/>
+		<file name="E:\personal_web\album\index.html"/>
+	</lastopfiles>
+	<errors version="5.3">
+	</errors>
+	<codestructure version="5.0">
+		<phptree>
+		</phptree>
+		<jstree>
+		</jstree>
+		<scsstree>
+		</scsstree>
+		<lesstree>
+		</lesstree>
+	</codestructure><cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+	</todoblock>
+	<filescache>
+		<file name="E:\personal_web\asset\css\font\thsarabunnew\thsarabunnew.css" crc="-488527275"/>
+		<file name="E:\personal_web\asset\css\normalize.css" crc="-1546794834"/>
+		<file name="E:\personal_web\asset\css\my_style.css" crc="-1055531225"/>
+		<file name="E:\personal_web\asset\css\my_base.css" crc="163297603"/>
+		<file name="E:\personal_web\asset\css\my_b.css" crc="56613607"/>
+	</filescache>
+</project>

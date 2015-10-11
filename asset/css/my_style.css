@@ -1,0 +1,63 @@
+/* Body
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+body {
+	font-size: 14px;
+	background-color: #e8fbfd;
+}
+
+/* Header
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.main-header {
+	background-color: #85d8f3;
+	border: 3px solid #85d8f3;
+}
+
+.main-header h1 {
+	margin: 0;
+	padding: 10px 0;
+	font-size: 2.0em;
+	line-height: 1.0;
+	font-weight: normal;	
+}
+
+table 	{
+		width: 100%;
+		border: 1px solid #d6dde6;
+		border-collapse: collapse;
+		}
+th,td	{
+		border: 1px solid #d6dde6;
+		}
+td,th		{
+		text-align: center;
+		}
+		
+/* Menu
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.main-menu {
+	
+	font-size: 1em;
+	background-color: #2198e7;
+	
+}
+
+/* Body
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.main-body {
+	background-color: #fff;
+	border: 1px solid #fff;
+}
+
+/* Footer
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.main-footer {
+	margin: 0;
+	padding: 15px 0;
+	background-color: #c8f2f7;
+	border: 1px solid #c8f2f7;
+}
+
+.main-footer p {
+	margin: 0;
+}
